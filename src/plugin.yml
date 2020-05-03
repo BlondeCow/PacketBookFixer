@@ -1,0 +1,10 @@
+name: PacketBookFixer
+main: me.packetbookfixer.PacketBookFixer
+version: 1.04
+author: BlondeCow
+depend: [ProtocolLib]
+
+commands:
+    pbf:
+      description: PBF
+      usage: /<command>

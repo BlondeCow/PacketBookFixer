@@ -1,0 +1,7 @@
+
+#You should reload the plugin after the changes.
+reload_message: '§dPacketBookFixer §8» §esuccessfully reloaded.'
+
+#Limit bad book packet sent to your server,
+#recommended 4000
+r_packet: 4000
